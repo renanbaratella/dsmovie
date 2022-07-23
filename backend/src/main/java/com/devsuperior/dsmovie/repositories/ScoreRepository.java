@@ -7,6 +7,4 @@ import com.devsuperior.dsmovie.entities.ScorePK;
 
 public interface ScoreRepository extends JpaRepository<Score, ScorePK> {
 
-	
-	
 }
